@@ -1,4 +1,4 @@
 Nama  : Jamil Ulumudin
-Nim   : 200603
+Nim   : 2006037
 
 Percobaan dilakukan dengan Matlab
